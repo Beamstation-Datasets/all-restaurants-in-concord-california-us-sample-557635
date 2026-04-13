@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Concord, California with a population of over 125k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Concord, California, US",
+  "export_job_id": "a1c0d489-751a-4158-83d0-150cdd828158",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 557635,
+  "location_name": "Concord",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-concord-california-us-sample-557635",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/557635/beamstation_557635_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 20,
+  "sample_sha256": "3fd7a7342c38b12443f90590f1510aa093452f37f132b8d299b53662b945aac0",
+  "sample_size_bytes": 92049,
+  "total_records": 200,
+  "updated_at": "2026-03-31T13:15:43.131623+00:00"
+}
