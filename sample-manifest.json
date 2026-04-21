@@ -1,12 +1,12 @@
 {
-  "export_job_id": "69b217e4-9ec0-4a67-b0cc-f06722195623",
+  "export_job_id": "b821c202-c342-48ff-89b8-e3e3b9eb9238",
   "id_short": 557635,
-  "published_at": "2026-04-17T19:39:16Z",
+  "published_at": "2026-04-21T19:33:11Z",
   "repo_name": "all-restaurants-in-concord-california-us-sample-557635",
   "sample_asset_name": "beamstation_557635_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/557635/beamstation_557635_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "2d4ed47b3a424215fba11edc2a1e7f980f77f07def05d6773e43a8d27e535c05",
-  "sample_size_bytes": 92994,
-  "total_records": 272
+  "sample_records": 16,
+  "sample_sha256": "c937ef0d9c89301b12e57d17a635429dc5af049599245577f8a1dd24fc8f6050",
+  "sample_size_bytes": 66049,
+  "total_records": 163
 }
