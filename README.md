@@ -1,6 +1,6 @@
 # All Restaurants in Concord, California, US
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `557635` |
 | Location | Concord |
 | Category | Restaurants |
-| Full dataset size | 163 records |
-| Free sample size | 16 records (9.82%) |
-| Last export | 2026-04-21T12:49:08.503573+00:00 |
+| Full dataset size | 295 records |
+| Free sample size | 29 records (9.83%) |
+| Last export | 2026-04-28T13:22:06.209109+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-concord-california-us-sample-557635/releases/download/sample-latest/beamstation_557635_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
